@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## ⭐️ GitHub Projects
 
-- [Project 1](https://github.com/marwan-salem18/project-1)
-- [Project 2](https://github.com/marwan-salem18/project-2)
-- [Project 3](https://github.com/marwan-salem18/project-3)
+- [Project 1]((https://github.com/marwan-salem18/Gym-management))
+- [Project 2](https://github.com/marwan-salem18/my-cs50-project)
+- [Project 3](https://github.com/marwan-salem18/Stock_Trading)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about technology.
