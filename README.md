@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/marwansalem209/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marwansalem209)
 - Email: [Your Email Address](marwan.salem209@gmail.com)
 
 ## 📝 Latest Blog Posts
