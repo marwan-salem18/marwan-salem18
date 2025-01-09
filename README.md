@@ -17,6 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
 ## 📈 GitHub Stats
 
@@ -24,8 +29,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marwansalem209)
-- Email: [Your Email Address](marwan.salem209@gmail.com)
+- LinkedIn: [linkedin.com/in/marwansalem209](https://www.linkedin.com/in/marwansalem209)
+- Email: [marwan.salem209@gmail.com](mailto:marwan.salem209@gmail.com)
 
 ## 📝 Latest Blog Posts
 
@@ -36,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## ⭐️ GitHub Projects
 
-- [Project 1]((https://github.com/marwan-salem18/Gym-management))
+- [Project 1](https://github.com/marwan-salem18/Gym-management)
 - [Project 2](https://github.com/marwan-salem18/my-cs50-project)
 - [Project 3](https://github.com/marwan-salem18/Stock_Trading)
 
