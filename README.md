@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on some react projects
+- 🔭 I’m currently working on some web projects
 - 🌱 I’m currently learning React
 
 ## 🛠️ Technologies & Tools
