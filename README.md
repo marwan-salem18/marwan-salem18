@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
-## 📈 GitHub Stats
-
-[![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-salem18&show_icons=true&theme=radical)](https://github.com/marwan-salem18)
-
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/marwansalem209](https://www.linkedin.com/in/marwansalem209)
