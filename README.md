@@ -28,13 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - LinkedIn: [linkedin.com/in/marwansalem209](https://www.linkedin.com/in/marwansalem209)
 - Email: [marwan.salem209@gmail.com](mailto:marwan.salem209@gmail.com)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- Add your blog posts dynamically using GitHub Actions or other tools -->
-
 ## ⭐️ GitHub Projects
 
 - [Project 1](https://github.com/marwan-salem18/Gym-management)
